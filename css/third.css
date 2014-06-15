@@ -33,6 +33,10 @@ header{
     float: right;
 }
 
+#logout{
+    display:none;
+}
+
 .top_right:hover{
 	background-color: #00BFFF ;
 }
